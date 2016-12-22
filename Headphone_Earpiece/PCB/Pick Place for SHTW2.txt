@@ -1,0 +1,5 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+C1         C_0402              98.445mil    952.756mil     98.445mil    952.756mil     118.13mil    952.756mil  T        180.00 100n           
+Sen1       SHTW2               98.425mil    885.827mil     98.425mil    885.827mil     90.551mil    901.575mil  T        360.00 SHTW1          
+
